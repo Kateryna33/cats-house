@@ -72,7 +72,7 @@ body {
         /*--------------HEADER------------------*/
 
         .page-header {
-            display: block;
+            display: blockI;
             align-items: center;
             justify-content: space-between;
             padding: 16px;
